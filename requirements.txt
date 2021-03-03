@@ -1,0 +1,5 @@
+buildozer==1.2.0
+distlib==0.3.1
+filelock==3.0.12
+sh==1.14.1
+virtualenv==20.4.2
